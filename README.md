@@ -1,2 +1,2 @@
-# Dreaming_corpora_with_R
+# Dreaming corpora with R
 Проект по анализу данных из корпуса рассказов о сновидениях с помощью языка R.
